@@ -1,5 +1,5 @@
 # Cplusplus-Program
-Portfolio of my work in C++ with an app for a grocery store.
+Portfolio of my work in C++ with Python integrated for a grocery store.
 
 *Summarize the project and what problem it was solving.
 * This project was to help a grocery store maintain a database and list of items purchased on a given day. The items were in a .txt file and read with my app. Once imported, it counts each item and the amount it was purchased and then it can also make it into a histogram saved as a .dat file with smiley faces indicating a purchase of that item. 
